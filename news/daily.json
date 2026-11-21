@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": 1795219185703,
+  "source": "live",
+  "feedsOk": 2,
+  "cards": [
+    {
+      "id": "N-2026-11-21-0",
+      "topic": "汽车",
+      "source": "auto motor und sport",
+      "title": "SO TESTET DIE INDUSTRIE: So arbeitet die Autopflegemittelbranche",
+      "text": "SO TESTET DIE INDUSTRIE: So arbeitet die Autopflegemittelbranche",
+      "link": "https://www.auto-motor-und-sport.de/news/so-testet-die-industrie/",
+      "date": "Thu, 08 Oct 2026 14:14:48 +0200",
+      "isNews": true
+    },
+    {
+      "id": "N-2026-11-21-1",
+      "topic": "汽车",
+      "source": "auto motor und sport",
+      "title": "Moove (164) - Felix Blum, EV Pay: „Wir machen Schnellladen für 30 Cent möglich!“",
+      "text": "Moove (164) - Felix Blum, EV Pay: „Wir machen Schnellladen für 30 Cent möglich!“",
+      "link": "https://www.auto-motor-und-sport.de/podcast/felix-blum-ev-pay-schnellladen-fuer-30-cent-mit-kreditkarte/",
+      "date": "Sat, 14 Sep 2024 16:36:00 +0200",
+      "isNews": true
+    },
+    {
+      "id": "N-2026-11-21-2",
+      "topic": "汽车",
+      "source": "ZEIT Mobilität",
+      "title": "Autoindustrie: Irgendwas machen sie richtig in Frankreich",
+      "text": "Autoindustrie: Irgendwas machen sie richtig in Frankreich",
+      "link": "https://www.zeit.de/2026/50/renault-autoindustrie-elektromobilitaet-produktion-francois-provost",
+      "date": "Thu, 19 Nov 2026 10:04:03 -0000",
+      "isNews": true
+    },
+    {
+      "id": "N-2026-11-21-3",
+      "topic": "汽车",
+      "source": "ZEIT Mobilität",
+      "title": "Nürnberg Hauptbahnhof: Bahnverkehr rund um Nürnberg wegen Störung vorübergehend gestoppt",
+      "text": "Nürnberg Hauptbahnhof: Bahnverkehr rund um Nürnberg wegen Störung vorübergehend gestoppt",
+      "link": "https://www.zeit.de/mobilitaet/2026-11/nuernberg-hauptbahnhof-stoerung-gsm-r-zugfunk-bahn",
+      "date": "Wed, 18 Nov 2026 20:15:52 -0000",
+      "isNews": true
+    }
+  ]
+}
